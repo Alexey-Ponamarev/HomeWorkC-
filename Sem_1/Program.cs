@@ -5,4 +5,4 @@ Console.Write("Введите число:  ");
 int number =Convert.ToInt32(Console.ReadLine());
 
 int Results=number*number;
-Console.Write(Results);
+Console.Write("Квадрат от числа " + number +" = "+Results);

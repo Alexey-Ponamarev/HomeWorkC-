@@ -1,0 +1,15 @@
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\bin\Debug\net6.0\Задача 15.exe
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\bin\Debug\net6.0\Задача 15.deps.json
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\bin\Debug\net6.0\Задача 15.runtimeconfig.json
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\bin\Debug\net6.0\Задача 15.dll
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\bin\Debug\net6.0\Задача 15.pdb
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\obj\Debug\net6.0\Задача 15.csproj.AssemblyReference.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\obj\Debug\net6.0\Задача 15.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\obj\Debug\net6.0\Задача 15.AssemblyInfoInputs.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\obj\Debug\net6.0\Задача 15.AssemblyInfo.cs
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\obj\Debug\net6.0\Задача 15.csproj.CoreCompileInputs.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\obj\Debug\net6.0\Задача 15.dll
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\obj\Debug\net6.0\refint\Задача 15.dll
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\obj\Debug\net6.0\Задача 15.pdb
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\obj\Debug\net6.0\Задача 15.genruntimeconfig.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 15\obj\Debug\net6.0\ref\Задача 15.dll

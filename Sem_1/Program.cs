@@ -1,20 +1,35 @@
-﻿// 5. Напишите программу, которая на вход принимает
-// одно число (N), а на выходе показывает
-// все целые числа в промежутке от -N до N.
-// 4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4"
-// 2 -> " -2, -1, 0, 1, 2"
+﻿using System;
 
-Console.Write("Введите число N: ");
-int N = Convert.ToInt32(Console.ReadLine());
-if (N < 0)
+public class Answer
 {
-N *= -1; // N = N * -1
-Console.WriteLine("Вы ввели отрц. число N, я умножил его на -1 :)");
-}
-int negativeN = N * -1; // -N
+    static void PrintEvenNumbers(int number)
+    {
+        int i = 2;
+        while (i <= number)
+        {
+            Console.Write(i + "\t");
+            i = i + 2;
+        }
 
-while (negativeN <= N)
-{
-Console.Write(negativeN + " ");
-negativeN += 1; // negativeN = negativeN + 1
+    }
+
+
+    // Не удаляйте и не меняйте метод Main! 
+    static public void Main(string[] args)
+    {
+        int number;
+
+        if (args.Length >= 1)
+        {
+            number = int.Parse(args[0]);
+        }
+        else
+        {
+            // Здесь вы можете поменять значения для отправки кода на Выполнение
+            number = 8;
+        }
+
+        // Не удаляйте строки ниже
+        PrintEvenNumbers(number);
+    }
 }

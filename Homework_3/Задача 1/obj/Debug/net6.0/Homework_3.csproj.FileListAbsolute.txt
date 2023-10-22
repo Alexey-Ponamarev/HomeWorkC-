@@ -1,0 +1,15 @@
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\obj\Debug\net6.0\Homework_3.csproj.AssemblyReference.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\obj\Debug\net6.0\Homework_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\obj\Debug\net6.0\Homework_3.AssemblyInfoInputs.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\obj\Debug\net6.0\Homework_3.AssemblyInfo.cs
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\obj\Debug\net6.0\Homework_3.csproj.CoreCompileInputs.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\bin\Debug\net6.0\Homework_3.exe
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\bin\Debug\net6.0\Homework_3.deps.json
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\bin\Debug\net6.0\Homework_3.runtimeconfig.json
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\bin\Debug\net6.0\Homework_3.dll
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\bin\Debug\net6.0\Homework_3.pdb
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\obj\Debug\net6.0\Homework_3.dll
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\obj\Debug\net6.0\refint\Homework_3.dll
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\obj\Debug\net6.0\Homework_3.pdb
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\obj\Debug\net6.0\Homework_3.genruntimeconfig.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\obj\Debug\net6.0\ref\Homework_3.dll

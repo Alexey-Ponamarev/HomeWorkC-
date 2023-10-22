@@ -13,3 +13,18 @@ D:\programming\VSCod\Practice_C#\Seminares\Homework_2\obj\Debug\net6.0\refint\Ho
 D:\programming\VSCod\Practice_C#\Seminares\Homework_2\obj\Debug\net6.0\Homework_2.pdb
 D:\programming\VSCod\Practice_C#\Seminares\Homework_2\obj\Debug\net6.0\Homework_2.genruntimeconfig.cache
 D:\programming\VSCod\Practice_C#\Seminares\Homework_2\obj\Debug\net6.0\ref\Homework_2.dll
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\bin\Debug\net6.0\Homework_2.exe
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\bin\Debug\net6.0\Homework_2.deps.json
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\bin\Debug\net6.0\Homework_2.runtimeconfig.json
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\bin\Debug\net6.0\Homework_2.dll
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\bin\Debug\net6.0\Homework_2.pdb
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\obj\Debug\net6.0\Homework_2.csproj.AssemblyReference.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\obj\Debug\net6.0\Homework_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\obj\Debug\net6.0\Homework_2.AssemblyInfoInputs.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\obj\Debug\net6.0\Homework_2.AssemblyInfo.cs
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\obj\Debug\net6.0\Homework_2.csproj.CoreCompileInputs.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\obj\Debug\net6.0\Homework_2.dll
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\obj\Debug\net6.0\refint\Homework_2.dll
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\obj\Debug\net6.0\Homework_2.pdb
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\obj\Debug\net6.0\Homework_2.genruntimeconfig.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_2\Задача 10\obj\Debug\net6.0\ref\Homework_2.dll

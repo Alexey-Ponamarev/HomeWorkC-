@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programming\\VSCod\\Practice_C#\\Seminares\\Homework_2\\Задача 10\\Homework_2.csproj": {}
+    "D:\\programming\\VSCod\\Practice_C#\\Seminares\\Homework_3\\Homework_3.csproj": {}
   },
   "projects": {
-    "D:\\programming\\VSCod\\Practice_C#\\Seminares\\Homework_2\\Задача 10\\Homework_2.csproj": {
+    "D:\\programming\\VSCod\\Practice_C#\\Seminares\\Homework_3\\Homework_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programming\\VSCod\\Practice_C#\\Seminares\\Homework_2\\Задача 10\\Homework_2.csproj",
-        "projectName": "Homework_2",
-        "projectPath": "D:\\programming\\VSCod\\Practice_C#\\Seminares\\Homework_2\\Задача 10\\Homework_2.csproj",
+        "projectUniqueName": "D:\\programming\\VSCod\\Practice_C#\\Seminares\\Homework_3\\Homework_3.csproj",
+        "projectName": "Homework_3",
+        "projectPath": "D:\\programming\\VSCod\\Practice_C#\\Seminares\\Homework_3\\Homework_3.csproj",
         "packagesPath": "C:\\Users\\Ponam\\.nuget\\packages\\",
-        "outputPath": "D:\\programming\\VSCod\\Practice_C#\\Seminares\\Homework_2\\Задача 10\\obj\\",
+        "outputPath": "D:\\programming\\VSCod\\Practice_C#\\Seminares\\Homework_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ponam\\AppData\\Roaming\\NuGet\\NuGet.Config"

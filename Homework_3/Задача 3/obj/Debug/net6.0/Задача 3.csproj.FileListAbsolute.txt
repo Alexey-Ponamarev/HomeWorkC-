@@ -1,0 +1,15 @@
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\obj\Debug\net6.0\Задача 3.csproj.AssemblyReference.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\obj\Debug\net6.0\Задача 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\obj\Debug\net6.0\Задача 3.AssemblyInfoInputs.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\obj\Debug\net6.0\Задача 3.AssemblyInfo.cs
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\obj\Debug\net6.0\Задача 3.csproj.CoreCompileInputs.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\bin\Debug\net6.0\Задача 3.exe
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\bin\Debug\net6.0\Задача 3.deps.json
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\bin\Debug\net6.0\Задача 3.runtimeconfig.json
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\bin\Debug\net6.0\Задача 3.dll
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\bin\Debug\net6.0\Задача 3.pdb
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\obj\Debug\net6.0\Задача 3.dll
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\obj\Debug\net6.0\refint\Задача 3.dll
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\obj\Debug\net6.0\Задача 3.pdb
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\obj\Debug\net6.0\Задача 3.genruntimeconfig.cache
+D:\programming\VSCod\Practice_C#\Seminares\Homework_3\Задача 3\obj\Debug\net6.0\ref\Задача 3.dll
